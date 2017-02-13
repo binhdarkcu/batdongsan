@@ -1,0 +1,15 @@
+RewriteEngine on
+Options +FollowSymlinks
+
+RewriteRule ^trang-chu$ index.php
+RewriteRule ^([a-zA-Z]*)$ index.php?blogdesignwebvn=$1
+RewriteRule ^template/(.*)/page-template.html$ index.php?blogdesignwebvn=template&page=$1
+RewriteRule ^ky-gui/dang-ky.html$ index.php?tqvbds=tqvkygui
+RewriteRule ^thanh-vien/dang-ky.html$ index.php?tqvbds=tqvregistermember
+RewriteRule ^lien-he.html$ index.php?tqvbds=tqvcontact
+RewriteRule ^gioi-thieu.html$ index.php?tqvbds=tqvintroduce
+RewriteRule ^quang-cao.html$ index.php?tqvbds=tqvadvertise
+RewriteRule ^tin-tuc/phap-luat.html$ index.php?tqvbds=tqvlistnews
+RewriteRule ^chi-tiet-tin/(.*)/(.*)/(.*).html$ index.php?tqvbds=detailnewsbds&cateid=$1&newsid=$2
+RewriteRule ^tin-nha-dat/(.*)/(.*)/(.*).html$ index.php?tqvbds=detailnewsrentbds&cateid=$1&newsid=$2
+ErrorDocument 404 /404.php

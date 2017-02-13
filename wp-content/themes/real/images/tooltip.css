@@ -1,0 +1,6 @@
+#dhtmltooltip {
+	BORDER-RIGHT: #549c13 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #549c13 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 10pt; Z-INDEX: 100; FILTER: alpha(opacity=75); LEFT: -300px; VISIBILITY: hidden; PADDING-BOTTOM: 4px; BORDER-LEFT: #549c13 1px solid; WIDTH: 350px; PADDING-TOP: 4px; BORDER-BOTTOM: #549c13 1px solid; FONT-FAMILY: Arial; POSITION: absolute; BACKGROUND-COLOR: #ffffff
+}
+#dhtmlpointer {
+	Z-INDEX: 101; LEFT: -300px; VISIBILITY: hidden; POSITION: absolute
+}

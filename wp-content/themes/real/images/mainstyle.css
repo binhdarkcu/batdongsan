@@ -1,0 +1,26 @@
+﻿body, th, td, p, li, ul {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 10px; 
+	color:#344c62;
+	}
+
+.block_green1 {
+	background-repeat: repeat-x;
+	border: 1px solid #b9d1ab;
+}
+.source{
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 10px; 
+	color:#344c62;
+	}
+.block_blue1 {
+	border: 1px solid #78afd0;
+}
+.redtitle {
+	font-weight: bold;
+	color: #a34a08;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}

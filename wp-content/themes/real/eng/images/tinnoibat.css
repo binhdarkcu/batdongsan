@@ -1,0 +1,37 @@
+A {
+	COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR:#00a0e3;  TEXT-DECORATION: none
+}
+.fstieudetin{font-family: Tahoma; font-size:13px; color:#223241; }
+.fsnoidungtomtat{font-family: Tahoma; font-size:12px; color:#344c62; }
+.fstieudetintieudiem{font-family: Tahoma; font-size:11px; color:#223241; }
+.fstieudetintieudiemchuyende{font-family: Tahoma; font-size:13px; color:#223241; }
+.fsnoidungtomtattintieudiem{font-family: Tahoma; font-size:11px; color:#3a718a; }
+.fstieudetinchuyende{font-family: Tahoma; font-size:12px; color:#223241; }
+.fstieudetindadangchuyende{font-family: Tahoma; font-size:12px; color:#003273; }
+.fstieudetintimkiem{font-family: Tahoma; font-size:12px; color:#223241; }
+.fstieudetheloai{font-family: Tahoma; font-size:12px; color:#d77f1f; }
+A.details {
+	COLOR: #c3e572; TEXT-DECORATION: none 
+}
+.fs41 {font-family: Tahoma; font-size:11px; color:#6f6f6f; }
+.fstl {font-family: Tahoma; font-size:13px; color:#2864ac; }
+.fstlut {font-family: Tahoma; font-size:13px; color:#d77f1f; }
+.fstieudetheloai{font-family: Tahoma; font-size:12px; color:#d77f1f; }
+.noidunglichphatsong{font-family: Tahoma; font-size:12px; color:#243f5e; }
+.inputboxdesignwebvnit {
+font-size:13px;
+background:#e3effd;
+color:#000000;
+border:1px solid #5da6ff;
+
+}
+.hoplichphatsong {
+font-size:13px;
+background:#f3f9ff;
+color:#000000;
+border:1px solid #c0c0c0;
+
+}
